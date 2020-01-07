@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/proxy_fake_feed.dir/fake_feed.cpp.o  -o ../../bin/proxy_fake_feed -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_system.so ../../lib/static/libvanetza_net.a ../../lib/static/libvanetza_common.a /usr/local/lib/libboost_date_time.so -pthread 

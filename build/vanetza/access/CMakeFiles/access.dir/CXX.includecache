@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sf/Documents/vanetza-master/vanetza/access/data_rates.cpp
+data_rates.hpp
+/home/sf/Documents/vanetza-master/vanetza/access/data_rates.hpp
+cassert
+-
+
+/home/sf/Documents/vanetza-master/vanetza/access/data_rates.hpp
+cstddef
+-
+

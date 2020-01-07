@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/static/libvanetza_access.a  CMakeFiles/access.dir/data_rates.cpp.o
+/usr/bin/ranlib ../../lib/static/libvanetza_access.a

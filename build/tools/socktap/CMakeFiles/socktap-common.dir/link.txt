@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/static/libsocktap-common.a  CMakeFiles/socktap-common.dir/application.cpp.o CMakeFiles/socktap-common.dir/dcc_passthrough.cpp.o CMakeFiles/socktap-common.dir/ethernet_device.cpp.o CMakeFiles/socktap-common.dir/gps_position_provider.cpp.o CMakeFiles/socktap-common.dir/router_context.cpp.o CMakeFiles/socktap-common.dir/time_trigger.cpp.o
+/usr/bin/ranlib ../../lib/static/libsocktap-common.a
